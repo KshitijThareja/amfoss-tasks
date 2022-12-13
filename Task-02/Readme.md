@@ -7,15 +7,18 @@ Here's the stepwise order-
 
 1. git clone https://github.com/gauthamk02/TerminalHunt.git 
 
-2. cd TerminalHunt
-mkdir solution
+2. `cd TerminalHunt`
 
-3. cd solution
-touch part1.txt
-echo "107" >> 'part1.txt'
+`mkdir solution`
+
+3. `cd solution`
+
+`touch part1.txt`
+
+`echo "107" >> 'part1.txt'`
 
 4. For copying, first navigate to the folder from which you have to copy text with "cd" command. After that-
-cp file.txt ~/path..../newfilename.txt
+`cp file.txt ~/path..../newfilename.txt`
 With this, we can do part-2 and part-3
 
 5. For commiting your work to github, first cd to the directory to be commited. After that-
