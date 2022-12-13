@@ -3,4 +3,4 @@ This task actually took a lot of my time. But seeing the things in action, I fee
 
 Here's a glimpse of how my bot functions -
 
-![Bot gif](Record_2022-12-11-18-11-30.gif)
+![Uploading Record_2022-12-11-18-11-30.gif…]()

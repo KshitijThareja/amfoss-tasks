@@ -38,4 +38,4 @@ cp file.txt ~/path..../part4.txt
 8. cat part1.txt part2.txt part3.txt part4.txt >> password.txt
 rm part1.txt part2.txt part3.txt part4.txt
 
-![Secret-scroll](Secret-scroll.png)
+![Secret-scroll](https://user-images.githubusercontent.com/116485536/207087937-657b229f-ac14-4629-8856-508bc0f4fba3.png)
