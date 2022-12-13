@@ -14,15 +14,15 @@ My task statistics are as shown-
 | [Task-04](https://github.com/KshitijThareja/amfoss-tasks/tree/main/task-04)   | Cinebot | Completed |
 | [Task-05](https://github.com/KshitijThareja/amfoss-tasks/tree/main/task-05)   | Debugging | Completed |
 | [Task-06](https://github.com/KshitijThareja/amfoss-tasks/tree/main/task-06)   | Flamegame | Completed |
-| [Task-07](https://github.com/KshitijThareja/amfoss-tasks/tree/main/task-07)   | GO WASM | Incomplete |
+| [Task-07](https://github.com/KshitijThareja/amfoss-tasks/tree/main/task-07)   | GO WASM | Partially done |
 | [Task-08](https://github.com/KshitijThareja/amfoss-tasks/tree/main/task-08)   | Internet Explorer | Completed |
-| Task-09   | Krypto Scraper | Incomplete |
+| Task-09   | Krypto Scraper | Partially done |
 | [Task-10](https://github.com/KshitijThareja/amfoss-tasks/tree/main/Task-10)   | Cs50 | Completed |
 | [Task-11](https://github.com/KshitijThareja/amfoss-tasks/tree/main/task-11)   | Figma Ninja | Completed |
-| Task-12   | Footfall Counter | Not yet attempted |
-| Task-13   | Bunny Heist | Not yet attempted |
+| Task-12   | Footfall Counter | Not attempted |
+| Task-13   | Bunny Heist | Not attempted |
 | [Task-14](https://github.com/KshitijThareja/amfoss-tasks/tree/main/task-14)   | Bandit | Completed |
-| Task-15   | Euler Project | Not yet attempted |
+| Task-15   | Euler Project | Not attempted |
 
 
 # My views about the tasks
