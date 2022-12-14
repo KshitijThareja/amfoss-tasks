@@ -6,12 +6,13 @@ Here are my designs-
 
 1.) Login screen 
 ---
-![Login](Login.png)
+![Login](https://user-images.githubusercontent.com/116485536/207662043-5991c7aa-eefe-459b-8f3e-b0ba4b26501c.png)
+
 
 2.) Signup screen
 ---
-![Signup](Signup.png)
+
 
 3.) Profile
 ---
-![Profile](Profile.png)
+![Profile](https://user-images.githubusercontent.com/116485536/207662124-01844d40-0a4f-46a1-a33e-346e6eadd8e1.png)
