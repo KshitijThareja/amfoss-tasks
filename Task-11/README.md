@@ -11,7 +11,7 @@ Here are my designs-
 
 2.) Signup screen
 ---
-![Register](https://github.com/KshitijThareja/amfoss-tasks/blob/b263674310233dc2ec0e0e0928a9cba4041dae14/Task-11/Register.png)
+![Register](Register.png)
 
 3.) Profile
 ---
