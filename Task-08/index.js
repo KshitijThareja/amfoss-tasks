@@ -4,7 +4,7 @@
     var kickbass = new Audio();
     kickbass.src = "/home/kshitij/task/task-08/sounds/kickbass.mp3";
     var snare = new Audio();
-    snare.src = "/home/kshitij/task/task-08/sounds/tom1.mp3";
+    snare.src = "/home/kshitij/task/task-08/sounds/snare.mp3";
     var tom1 = new Audio();
     tom1.src = "/home/kshitij/task/task-08/sounds/tom1.mp3";
     var tom2 = new Audio();
